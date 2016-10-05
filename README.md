@@ -11,13 +11,13 @@
 
 ## 使用说明
 
-1. 安装插件和webpack
+### 1. 安装插件和webpack
 
 ```
 npm install --save plover-assets-webpack webpack
 ```
 
-2. 配置
+### 2. 配置
 
 按约定应用的webpack配置存放在`config/webpack.js`。 模块可以有自己的webpack配置，一般用于通用模块。
 
