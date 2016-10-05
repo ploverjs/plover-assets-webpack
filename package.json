@@ -38,12 +38,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plover-modules/plover-assets-webpack.git"
+    "url": "git+https://github.com/ploverjs/plover-assets-webpack.git"
   },
   "author": "bencode@163.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/plover-modules/plover-assets-webpack/issues"
+    "url": "https://github.com/ploverjs/plover-assets-webpack/issues"
   },
-  "homepage": "https://github.com/plover-modules/plover-assets-webpack#readme"
+  "homepage": "https://github.com/ploverjs/plover-assets-webpack#readme"
 }
