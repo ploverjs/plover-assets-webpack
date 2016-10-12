@@ -1,6 +1,10 @@
-<a name="1.2.0"></a>
-# [1.2.0](https://github.com/ploverjs/plover-assets-webpack/compare/v1.1.0...v1.2.0) (2016-10-05)
+<a name="1.2.1"></a>
+## [1.2.1](https://github.com/ploverjs/plover-assets-webpack/compare/v1.2.0...v1.2.1) (2016-10-12)
 
+
+### Features
+
+* 移除对webpack的强制依赖。 ([8dab4bb](https://github.com/ploverjs/plover-assets-webpack/commit/8dab4bb))
 
 
 <a name="1.1.0"></a>

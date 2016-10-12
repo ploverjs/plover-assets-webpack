@@ -1,6 +1,6 @@
 {
   "name": "plover-assets-webpack",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "使用webpack编译前端资源",
   "main": "lib/index",
   "scripts": {
